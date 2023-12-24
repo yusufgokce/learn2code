@@ -7,7 +7,7 @@ import java.net.URLClassLoader;
 import java.util.List;
 import java.net.URI;
 
-public class Main {
+public class gameController {
     public static void main(String[] args) {
         String code = "public class HelloWorld {" +
                 "   public static void main(String[] args) {" +
